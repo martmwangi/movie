@@ -14,4 +14,19 @@
 nav{
     position: absolute;
 }
-nav
+nav ul li{
+    display: inline;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    padding: 30px;
+
+}
+.white{
+    color: white;
+    font-size: 20px;
+}
+.center{
+    padding-top: 20%;
+    margin-left: 5%;
+}
