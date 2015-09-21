@@ -44,7 +44,9 @@ margin-top: 0;
 iframe{
     width: 500px
 }
-
+#slideshow{
+    margin: 50px auto;
+}
 
 
 
